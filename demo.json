@@ -1,0 +1,1616 @@
+{
+    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR/albums?offset=0&limit=20&include_groups=album,single,compilation,appears_on",
+    "items": [
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AL",
+                "AR",
+                "AT",
+                "AU",
+                "BA",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "BY",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IS",
+                "IT",
+                "JO",
+                "JP",
+                "KW",
+                "KZ",
+                "LB",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MK",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PS",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RU",
+                "SA",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "UA",
+                "US",
+                "UY",
+                "VN",
+                "XK",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+            },
+            "href": "https://api.spotify.com/v1/albums/5UACk85y1hNRSUtY0ss8pb",
+            "id": "5UACk85y1hNRSUtY0ss8pb",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d0f561d8bb164349dccbfde4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d0f561d8bb164349dccbfde4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d0f561d8bb164349dccbfde4",
+                    "width": 64
+                }
+            ],
+            "name": "k bye for now (swt live)",
+            "release_date": "2019-12-23",
+            "release_date_precision": "day",
+            "total_tracks": 32,
+            "type": "album",
+            "uri": "spotify:album:5UACk85y1hNRSUtY0ss8pb"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AL",
+                "AR",
+                "AT",
+                "AU",
+                "BA",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IS",
+                "IT",
+                "JO",
+                "JP",
+                "KW",
+                "KZ",
+                "LB",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MK",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PS",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RU",
+                "SA",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "UA",
+                "US",
+                "UY",
+                "VN",
+                "XK",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+            },
+            "href": "https://api.spotify.com/v1/albums/2fYhqwDWXjbpjaIJPEfKFw",
+            "id": "2fYhqwDWXjbpjaIJPEfKFw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0256ac7b86e090f307e218e9c8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485156ac7b86e090f307e218e9c8",
+                    "width": 64
+                }
+            ],
+            "name": "thank u, next",
+            "release_date": "2019-02-08",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:2fYhqwDWXjbpjaIJPEfKFw"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AL",
+                "AR",
+                "AT",
+                "AU",
+                "BA",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IS",
+                "IT",
+                "JO",
+                "JP",
+                "KW",
+                "KZ",
+                "LB",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MK",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PS",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RU",
+                "SA",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "UA",
+                "US",
+                "UY",
+                "VN",
+                "XK",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+            },
+            "href": "https://api.spotify.com/v1/albums/3tx8gQqWbGwqIGZHqDNrGe",
+            "id": "3tx8gQqWbGwqIGZHqDNrGe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c3af0c2355c24ed7023cd394",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c3af0c2355c24ed7023cd394",
+                    "width": 64
+                }
+            ],
+            "name": "Sweetener",
+            "release_date": "2018-08-17",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:3tx8gQqWbGwqIGZHqDNrGe"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AE",
+                "AU",
+                "BH",
+                "BY",
+                "CA",
+                "DZ",
+                "EG",
+                "GB",
+                "HK",
+                "ID",
+                "IE",
+                "IN",
+                "JO",
+                "KW",
+                "KZ",
+                "LB",
+                "MA",
+                "MX",
+                "MY",
+                "NZ",
+                "OM",
+                "PH",
+                "PS",
+                "QA",
+                "RU",
+                "SA",
+                "SG",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "UA",
+                "US",
+                "VN"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5KOu62BJwwCJTfyyAaEbZk"
+            },
+            "href": "https://api.spotify.com/v1/albums/5KOu62BJwwCJTfyyAaEbZk",
+            "id": "5KOu62BJwwCJTfyyAaEbZk",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738e1fa66c1a8f12076378cfb3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028e1fa66c1a8f12076378cfb3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518e1fa66c1a8f12076378cfb3",
+                    "width": 64
+                }
+            ],
+            "name": "Sweetener",
+            "release_date": "2018-08-17",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:5KOu62BJwwCJTfyyAaEbZk"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AE",
+                "AU",
+                "BH",
+                "BY",
+                "CA",
+                "DZ",
+                "EG",
+                "GB",
+                "ID",
+                "IE",
+                "IN",
+                "JO",
+                "KW",
+                "KZ",
+                "LB",
+                "MA",
+                "MX",
+                "MY",
+                "OM",
+                "PS",
+                "QA",
+                "RU",
+                "SA",
+                "SG",
+                "TN",
+                "TR",
+                "UA",
+                "US"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO"
+            },
+            "href": "https://api.spotify.com/v1/albums/6sUzNE1SPNLBXBCZs3PIAO",
+            "id": "6sUzNE1SPNLBXBCZs3PIAO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0279826f235cf8bc00256db3a6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485179826f235cf8bc00256db3a6",
+                    "width": 64
+                }
+            ],
+            "name": "thank u, next",
+            "release_date": "2018-02-07",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:6sUzNE1SPNLBXBCZs3PIAO"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "JP"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq"
+            },
+            "href": "https://api.spotify.com/v1/albums/2A1KyqHu1DmLtjXpIMNoQq",
+            "id": "2A1KyqHu1DmLtjXpIMNoQq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27306c6b13f577db624e75bde2b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0206c6b13f577db624e75bde2b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485106c6b13f577db624e75bde2b",
+                    "width": 64
+                }
+            ],
+            "name": "Christmas & Chill (Japan Version)",
+            "release_date": "2016-11-18",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:2A1KyqHu1DmLtjXpIMNoQq"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "JP"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1TVt7uWfV3vLiU8bEmBEWL"
+            },
+            "href": "https://api.spotify.com/v1/albums/1TVt7uWfV3vLiU8bEmBEWL",
+            "id": "1TVt7uWfV3vLiU8bEmBEWL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b842fde1e6ec2fba47506811",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b842fde1e6ec2fba47506811",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b842fde1e6ec2fba47506811",
+                    "width": 64
+                }
+            ],
+            "name": "Dangerous Woman",
+            "release_date": "2016-05-20",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:1TVt7uWfV3vLiU8bEmBEWL"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AL",
+                "AR",
+                "AT",
+                "AU",
+                "BA",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "BY",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IS",
+                "IT",
+                "JO",
+                "KW",
+                "KZ",
+                "LB",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MK",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RU",
+                "SA",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "UA",
+                "US",
+                "UY",
+                "VN",
+                "XK",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7"
+            },
+            "href": "https://api.spotify.com/v1/albums/3OZgEywV4krCZ814pTJWr7",
+            "id": "3OZgEywV4krCZ814pTJWr7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735f9393fda71e7df39b34defd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025f9393fda71e7df39b34defd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515f9393fda71e7df39b34defd",
+                    "width": 64
+                }
+            ],
+            "name": "Dangerous Woman",
+            "release_date": "2016-05-20",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:3OZgEywV4krCZ814pTJWr7"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AL",
+                "AR",
+                "AT",
+                "AU",
+                "BA",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "BY",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IS",
+                "IT",
+                "JO",
+                "KW",
+                "KZ",
+                "LB",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MK",
+                "MT",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RU",
+                "SA",
+                "SG",
+                "SI",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "UA",
+                "US",
+                "UY",
+                "VN",
+                "XK",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+            },
+            "href": "https://api.spotify.com/v1/albums/3pdKKSqqLVIKmRTGw0x2N7",
+            "id": "3pdKKSqqLVIKmRTGw0x2N7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02628d506d5bddb09099db242c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851628d506d5bddb09099db242c",
+                    "width": 64
+                }
+            ],
+            "name": "Dangerous Woman",
+            "release_date": "2016-05-20",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:3pdKKSqqLVIKmRTGw0x2N7"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AU",
+                "HK"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0ku0TzH0npL8HjnnBSz90h"
+            },
+            "href": "https://api.spotify.com/v1/albums/0ku0TzH0npL8HjnnBSz90h",
+            "id": "0ku0TzH0npL8HjnnBSz90h",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d34a7101c9bf9f543dde128b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d34a7101c9bf9f543dde128b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d34a7101c9bf9f543dde128b",
+                    "width": 64
+                }
+            ],
+            "name": "Dangerous Woman",
+            "release_date": "2016-05-20",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:0ku0TzH0npL8HjnnBSz90h"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AE",
+                "AU",
+                "BH",
+                "BY",
+                "CA",
+                "DZ",
+                "EG",
+                "FR",
+                "GB",
+                "ID",
+                "IE",
+                "IN",
+                "JO",
+                "KW",
+                "KZ",
+                "LB",
+                "MA",
+                "MX",
+                "MY",
+                "OM",
+                "PS",
+                "QA",
+                "RU",
+                "SA",
+                "TN",
+                "TR",
+                "UA",
+                "US"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2ZUhCoeloo6Kd6w0HK9En6"
+            },
+            "href": "https://api.spotify.com/v1/albums/2ZUhCoeloo6Kd6w0HK9En6",
+            "id": "2ZUhCoeloo6Kd6w0HK9En6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273edb929261567beb0a6f5d096",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02edb929261567beb0a6f5d096",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851edb929261567beb0a6f5d096",
+                    "width": 64
+                }
+            ],
+            "name": "Dangerous Woman",
+            "release_date": "2016-05-20",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:2ZUhCoeloo6Kd6w0HK9En6"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AE",
+                "AU",
+                "BH",
+                "BY",
+                "DZ",
+                "EG",
+                "GB",
+                "ID",
+                "IE",
+                "IN",
+                "JO",
+                "KW",
+                "KZ",
+                "LB",
+                "MA",
+                "MX",
+                "MY",
+                "OM",
+                "PS",
+                "QA",
+                "RU",
+                "SA",
+                "TN",
+                "TR",
+                "UA",
+                "US"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/008gkJbe7n4eG8cifJOyKY"
+            },
+            "href": "https://api.spotify.com/v1/albums/008gkJbe7n4eG8cifJOyKY",
+            "id": "008gkJbe7n4eG8cifJOyKY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27312fce31bb808ddfdf9c9ce4f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0212fce31bb808ddfdf9c9ce4f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485112fce31bb808ddfdf9c9ce4f",
+                    "width": 64
+                }
+            ],
+            "name": "Dangerous Woman",
+            "release_date": "2016-05-20",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:008gkJbe7n4eG8cifJOyKY"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AE",
+                "BH",
+                "DZ",
+                "EG",
+                "JO",
+                "KW",
+                "LB",
+                "MA",
+                "OM",
+                "QA",
+                "SA",
+                "TN"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
+            },
+            "href": "https://api.spotify.com/v1/albums/1QRP5lutJodPixU2EWfnD7",
+            "id": "1QRP5lutJodPixU2EWfnD7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0233342c57a9b2c4e04c97b3f5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485133342c57a9b2c4e04c97b3f5",
+                    "width": 64
+                }
+            ],
+            "name": "Dangerous Woman",
+            "release_date": "2016-04-01",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:1QRP5lutJodPixU2EWfnD7"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "IT"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2LFT0OnfZzsvjcU7bNMM7W"
+            },
+            "href": "https://api.spotify.com/v1/albums/2LFT0OnfZzsvjcU7bNMM7W",
+            "id": "2LFT0OnfZzsvjcU7bNMM7W",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734a6994bb7b7ae1260c522e85",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024a6994bb7b7ae1260c522e85",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514a6994bb7b7ae1260c522e85",
+                    "width": 64
+                }
+            ],
+            "name": "My Everything (Italian Edition)",
+            "release_date": "2015-06-30",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:2LFT0OnfZzsvjcU7bNMM7W"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "JP"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/73mU4gsuOLOppKZanTCC24"
+            },
+            "href": "https://api.spotify.com/v1/albums/73mU4gsuOLOppKZanTCC24",
+            "id": "73mU4gsuOLOppKZanTCC24",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732786e8f27167af2e6a7f73ac",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022786e8f27167af2e6a7f73ac",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512786e8f27167af2e6a7f73ac",
+                    "width": 64
+                }
+            ],
+            "name": "The Remix",
+            "release_date": "2015-05-25",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:73mU4gsuOLOppKZanTCC24"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "FR"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6dYDqMHA4COCFC0TfCiUCj"
+            },
+            "href": "https://api.spotify.com/v1/albums/6dYDqMHA4COCFC0TfCiUCj",
+            "id": "6dYDqMHA4COCFC0TfCiUCj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739e730d8fbd256885242f1e96",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029e730d8fbd256885242f1e96",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519e730d8fbd256885242f1e96",
+                    "width": 64
+                }
+            ],
+            "name": "My Everything (Deluxe)",
+            "release_date": "2015-04-13",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:6dYDqMHA4COCFC0TfCiUCj"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "JP"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3AJFL1V5nHtDvH50DJtxZ3"
+            },
+            "href": "https://api.spotify.com/v1/albums/3AJFL1V5nHtDvH50DJtxZ3",
+            "id": "3AJFL1V5nHtDvH50DJtxZ3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27346d1ba2fae86b9c5702533e7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0246d1ba2fae86b9c5702533e7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485146d1ba2fae86b9c5702533e7",
+                    "width": 64
+                }
+            ],
+            "name": "My Everything",
+            "release_date": "2014-08-25",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:3AJFL1V5nHtDvH50DJtxZ3"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AE",
+                "BH",
+                "DZ",
+                "EG",
+                "JO",
+                "KW",
+                "LB",
+                "MA",
+                "OM",
+                "QA",
+                "SA",
+                "TN"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4OmcwMXInfxtJ6YityvgWP"
+            },
+            "href": "https://api.spotify.com/v1/albums/4OmcwMXInfxtJ6YityvgWP",
+            "id": "4OmcwMXInfxtJ6YityvgWP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735b1c64d5433d4ddaaf2768b5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025b1c64d5433d4ddaaf2768b5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515b1c64d5433d4ddaaf2768b5",
+                    "width": 64
+                }
+            ],
+            "name": "My Everything",
+            "release_date": "2014-08-25",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:4OmcwMXInfxtJ6YityvgWP"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AL",
+                "AR",
+                "AT",
+                "AU",
+                "BA",
+                "BE",
+                "BG",
+                "BO",
+                "BR",
+                "BY",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "EC",
+                "EE",
+                "ES",
+                "FI",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IN",
+                "IS",
+                "IT",
+                "KZ",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MC",
+                "MD",
+                "ME",
+                "MK",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PS",
+                "PT",
+                "PY",
+                "RO",
+                "RS",
+                "RU",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SV",
+                "TH",
+                "TR",
+                "TW",
+                "UA",
+                "US",
+                "UY",
+                "VN",
+                "XK",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+            },
+            "href": "https://api.spotify.com/v1/albums/6EVYTRG1drKdO8OnIQBeEj",
+            "id": "6EVYTRG1drKdO8OnIQBeEj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02deec12a28d1e336c5052e9aa",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851deec12a28d1e336c5052e9aa",
+                    "width": 64
+                }
+            ],
+            "name": "My Everything (Deluxe)",
+            "release_date": "2014-08-25",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:6EVYTRG1drKdO8OnIQBeEj"
+        },
+        {
+            "album_group": "album",
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "available_markets": [
+                "AE",
+                "BH",
+                "DZ",
+                "EG",
+                "JO",
+                "KW",
+                "LB",
+                "MA",
+                "OM",
+                "QA",
+                "SA",
+                "TN"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2TrMNIWGgLtQwAcPjOIwW8"
+            },
+            "href": "https://api.spotify.com/v1/albums/2TrMNIWGgLtQwAcPjOIwW8",
+            "id": "2TrMNIWGgLtQwAcPjOIwW8",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738f3854c4a2891598859a9b80",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028f3854c4a2891598859a9b80",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518f3854c4a2891598859a9b80",
+                    "width": 64
+                }
+            ],
+            "name": "My Everything",
+            "release_date": "2014-08-25",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:2TrMNIWGgLtQwAcPjOIwW8"
+        }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR/albums?offset=20&limit=20&include_groups=album,single,compilation,appears_on",
+    "offset": 0,
+    "previous": null,
+    "total": 559
+}
